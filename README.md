@@ -1,18 +1,44 @@
- <a href="https://www.linkedin.com/in/albert-romero36/">Al Romero</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Al Romero's — IT & Cybersecurity Project Portfolio 🔐
+[Al Romero's LinkedIn](https://www.linkedin.com/in/albert-romero36/)
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+IT-focused, security-minded projects centered on vulnerability management, detection engineering, and practical automation.  
+My goal is to build reliable IT foundations while applying security best practices in real-world workflows.
 
+## Quick Skills Snapshot
+- **Operating Systems:** Windows, Linux (Ubuntu/Debian/Kali)
+- **Security:** Vulnerability management, hardening, log analysis, alert triage
+- **Tools:** Tenable, SIEM concepts/KQL exposure, Wireshark, Firewalls
+- **Automation:** PowerShell, Bash (basics)
+- **Cloud:** AWS (EC2/S3/IAM), Azure fundamentals
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+**[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+### Highlights:
+- Built a repeatable workflow for identifying, prioritizing, and tracking vulnerabilities
+- Documented remediation processes and reporting structure
+- Focus on operationalizing vulnerability management in an IT environment
+
+### 🔹 Programmatic Vulnerability Remediations (PowerShell + Bash)
+**[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+### Highlights:
+- Automated common remediation tasks using PowerShell and Bash
+- Emphasis on consistency, repeatability, and reducing time-to-remediate
+- Includes scripts and documentation for safe execution
+
+---
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-<hr/>
+### 🔹 Threat Hunting Scenario: Tor Browser Usage
+**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+### Highlights:
+- Investigated Tor-related indicators and suspicious host behavior
+- Documented assumptions, queries, and investigation approach
+- Focus on triage workflow and detection mindset
+---
 
 ## 🤳 Connect With Me
 
