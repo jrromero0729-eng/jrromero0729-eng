@@ -15,7 +15,7 @@ My goal is to build reliable IT foundations while applying security best practic
 
 ## ⚠️ Vulnerability Management Projects
 
-**[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+**[Vulnerability Management Program Implementation](https://github.com/jrromero0729-eng/Vulnerability-Management-Program/tree/main)**
 ### Highlights:
 - Built a repeatable workflow for identifying, prioritizing, and tracking vulnerabilities
 - Documented remediation processes and reporting structure
