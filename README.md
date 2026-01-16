@@ -1,11 +1,10 @@
 # Al Romero's — IT & Cybersecurity Project Portfolio 🔐
 [Al Romero's LinkedIn](https://www.linkedin.com/in/albert-romero36/)
 
-IT-focused, security-minded projects centered on vulnerability management, detection engineering, and practical automation.  
-My goal is to build reliable IT foundations while applying security best practices in real-world workflows.
+IT-focused, security-minded projects centered on vulnerability management, detection engineering, and practical automation. These repositories demonstrate hands-on threat hunting, vulnerability remediation, and incident response work that reflects real-world environments. My focus is on building reliable IT foundations while applying security best practices through practical, repeatable workflows.
 
 ## Quick Skills Snapshot
-- **Operating Systems:** Windows, Linux (Ubuntu/Debian/Kali)
+- **Operating Systems:** Windows, Linux (Ubuntu/Debian/Kali), MacOS
 - **Security:** Vulnerability management, hardening, log analysis, alert triage
 - **Tools:** Tenable, SIEM concepts/KQL exposure, Wireshark, Firewalls
 - **Automation:** PowerShell, Bash (basics)
