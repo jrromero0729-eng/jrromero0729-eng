@@ -12,7 +12,7 @@ IT-focused, security-minded projects centered on vulnerability management, detec
 
 ---
 
-## ⚠️ Vulnerability Management Projects
+## <img width="64" height="64" alt="ChatGPT Image Dec 25, 2025, 07_21_13 PM" src="https://github.com/user-attachments/assets/a69cff1e-9c82-4185-8a67-dd8bb93e5d57" />Vulnerability Management
 
 **[Vulnerability Management Program Implementation](https://github.com/jrromero0729-eng/Vulnerability-Management-Program/tree/main)**
 ### Highlights:
