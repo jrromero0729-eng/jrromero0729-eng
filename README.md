@@ -44,11 +44,19 @@ IT-focused, security-minded projects centered on vulnerability management, detec
 
 ## <img width="64" height="64" alt="threat-hunt-icon-transparent" src="https://github.com/user-attachments/assets/ad4fc406-8836-402d-aa11-405695c0f8d3" />Threat Hunting and Security Operations
 
-**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jrromero0729-eng/tor-threat-hunting-scenario)**
-### Threat Hunting Scenario (Tor Browser Usage) Highlights:
+**[Threat Hunting Tor Browser Usage](https://github.com/jrromero0729-eng/tor-threat-hunting-scenario)**
+### Threat Hunting: Tor Browser Usage Highlights:
 - Investigated Tor-related indicators and suspicious host behavior
 - Documented assumptions, queries, and investigation approach
 - Focus on triage workflow and detection mindset
+
+**[Security Operations: Non-Malicious PowerShell Script Crash (Azure Guest Agent Degradation)](https://github.com/jrromero0729-eng/non-malicious-powershell-script-crash)**
+### Security Operations Non-Malicious PowerShell Script Crash Highlights:
+- Investigated a SYSTEM-level PowerShell crash that degraded Azure Guest Agent trust
+- Correlated endpoint telemetry (WerFault, process execution) with Azure control-plane recovery behavior
+- Distinguished non-malicious automation failure from indicators of compromise
+- Analyzed guest agent health, heartbeat services, and configuration compliance checks
+- Demonstrated why VM redeployment, not reboot, was required to restore functionality
 ---
 
 ## 🤳 Connect With Me
