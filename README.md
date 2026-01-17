@@ -36,7 +36,7 @@ IT-focused, security-minded projects centered on vulnerability management, detec
 
 **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/jrromero0729-eng/Programmatic-Vulnerability-Remediations-Windows/blob/main/README.md)**
 ### Programmatic Vulnerability Remediations Highlights:
-- Automated common remediation tasks using PowerShell and Bash
+- Automated common remediation tasks using PowerShell
 - Emphasis on consistency, repeatability, and reducing time-to-remediate
 - Includes scripts and documentation for safe execution
 
