@@ -3,6 +3,20 @@
 
 IT-focused, security-minded projects centered on vulnerability management, detection engineering, and practical automation. These repositories demonstrate hands-on threat hunting, vulnerability remediation, and incident response work that reflects real-world environments. My focus is on building reliable IT foundations while applying security best practices through practical, repeatable workflows.
 
+---
+
+## <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/88ce7aac-deaa-4050-ad55-d41f1004e5a5" /> Portfolio Website
+
+**[Live Portfolio Website](https://jrromero0729-eng.github.io/Portfolio-Website-Al-Romero/)**
+
+### Website Highlights:
+- Central hub for my professional background, resume, and career goals
+- Clean, responsive HTML/CSS design hosted via GitHub Pages
+- Designed to complement my GitHub projects with a recruiter-friendly layout
+- Demonstrates foundational web development, structure, and deployment skills
+
+---
+
 ## Quick Skills Snapshot
 - **Operating Systems:** Windows, Linux (Ubuntu/Debian/Kali), MacOS
 - **Security:** Vulnerability management, hardening, log analysis, alert triage
