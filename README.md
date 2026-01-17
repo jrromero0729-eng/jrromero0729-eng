@@ -15,21 +15,20 @@ IT-focused, security-minded projects centered on vulnerability management, detec
 ## <img width="64" height="64" alt="ChatGPT Image Dec 25, 2025, 07_21_13 PM" src="https://github.com/user-attachments/assets/a69cff1e-9c82-4185-8a67-dd8bb93e5d57" />Vulnerability Management
 
 **[Vulnerability Management Program Implementation](https://github.com/jrromero0729-eng/Vulnerability-Management-Program/tree/main)**
-### Highlights:
+### Vulnerability Management Program Highlights:
 - Built a repeatable workflow for identifying, prioritizing, and tracking vulnerabilities
 - Documented remediation processes and reporting structure
 - Focus on operationalizing vulnerability management in an IT environment
 
-### 🔹 Programmatic Vulnerability Remediations (PowerShell + Bash)
-**[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-### Highlights:
+**[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/jrromero0729-eng/Programmatic-Vulnerability-Remediations-Windows/blob/main/README.md)**
+### Programmatic Vulnerability Remediations Highlights:
 - Automated common remediation tasks using PowerShell and Bash
 - Emphasis on consistency, repeatability, and reducing time-to-remediate
 - Includes scripts and documentation for safe execution
 
 ---
 
-## 🚨 Threat Hunting and Security Operations
+## <img width="64" height="64" alt="threat-hunt-icon-transparent" src="https://github.com/user-attachments/assets/ad4fc406-8836-402d-aa11-405695c0f8d3" />Threat Hunting and Security Operations
 
 ### 🔹 Threat Hunting Scenario: Tor Browser Usage
 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jrromero0729-eng/tor-threat-hunting-scenario)**
