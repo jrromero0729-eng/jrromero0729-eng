@@ -52,11 +52,9 @@ IT-focused, security-minded projects centered on vulnerability management, detec
 
 **[Security Operations: Non-Malicious PowerShell Script Crash (Azure Guest Agent Degradation)](https://github.com/jrromero0729-eng/non-malicious-powershell-script-crash)**
 ### Security Operations: Non-Malicious PowerShell Script Crash Highlights:
-- Investigated a SYSTEM-level PowerShell crash that degraded Azure Guest Agent trust
-- Correlated endpoint telemetry (WerFault, process execution) with Azure control-plane recovery behavior
-- Distinguished non-malicious automation failure from indicators of compromise
-- Analyzed guest agent health, heartbeat services, and configuration compliance checks
-- Demonstrated why VM redeployment, not reboot, was required to restore functionality
+- Investigated a SYSTEM-level PowerShell crash that degraded Azure Guest Agent trust and disrupted automation
+- Correlated endpoint telemetry (WerFault, process execution) with Azure control-plane recovery behavior to rule out compromise
+- Determined that VM redeployment, rather than reboot, was required to restore management-plane trust and functionality
 ---
 
 ## 🤳 Connect With Me
