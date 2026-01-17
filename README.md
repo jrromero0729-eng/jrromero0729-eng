@@ -50,6 +50,12 @@ IT-focused, security-minded projects centered on vulnerability management, detec
 - Documented assumptions, queries, and investigation approach
 - Focus on triage workflow and detection mindset
 
+**[Threat Hunt: Cargo Hold](https://github.com/jrromero0729-eng/Threat-Hunt-Cargo-Hold)**
+### Threat Hunt: Cargo Hold Highlights:
+- Investigated suspicious Cargo Hold–related activity and potential persistence mechanisms
+- Analyzed endpoint telemetry and process behavior to identify misuse or post-exploitation techniques
+- Applied hypothesis-driven threat hunting to distinguish legitimate administrative activity from malicious behavior
+
 **[Security Operations: Non-Malicious PowerShell Script Crash (Azure Guest Agent Degradation)](https://github.com/jrromero0729-eng/non-malicious-powershell-script-crash)**
 ### Security Operations: Non-Malicious PowerShell Script Crash Highlights:
 - Investigated a SYSTEM-level PowerShell crash that degraded Azure Guest Agent trust and disrupted automation
