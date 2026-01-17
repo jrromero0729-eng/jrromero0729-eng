@@ -30,7 +30,6 @@ IT-focused, security-minded projects centered on vulnerability management, detec
 
 ## <img width="64" height="64" alt="threat-hunt-icon-transparent" src="https://github.com/user-attachments/assets/ad4fc406-8836-402d-aa11-405695c0f8d3" />Threat Hunting and Security Operations
 
-### 🔹 Threat Hunting Scenario: Tor Browser Usage
 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jrromero0729-eng/tor-threat-hunting-scenario)**
 ### Highlights:
 - Investigated Tor-related indicators and suspicious host behavior
